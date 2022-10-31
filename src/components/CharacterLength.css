@@ -1,0 +1,17 @@
+.character-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.form-range {
+  width: 100%;
+  height: 8px;
+  background: linear-gradient(
+    to right,
+    hsl(127, 100%, 82%) 0%,
+    hsl(127, 100%, 82%) 50%,
+    hsl(248, 15%, 11%) 50%,
+    hsl(248, 15%, 11%) 100%
+  );
+}

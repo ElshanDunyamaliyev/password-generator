@@ -1,0 +1,7 @@
+.main-content {
+  background: hsl(248, 10%, 15%);
+  border: 1px solid black;
+  padding: 5px 20px;
+  width: 400px;
+  text-align: left;
+}
